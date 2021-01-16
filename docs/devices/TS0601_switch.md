@@ -18,7 +18,7 @@ description: "Integrate your TuYa TS0601_switch via Zigbee2MQTT with whatever sm
 
 ## Notes
 
-None
+How tp set the device in Pairing mode: Press a button 4 times and keep the button long pressed on the 4th press until it beeps. Now press the button 2 times and keep a long press on the 2nd press until it beeps. Your device is now in pairing mode.
 
 
 ## Exposes
